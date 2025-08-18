@@ -9,9 +9,9 @@
 - Tools: GitHub, Jupyter, Arduino, Scratch  
 
 ## 🔗 Connect with me
-- 🌐 [Portfolio Website](#)  
-- 💼 [LinkedIn](#)  
-- 📧 Email: yourmail@gmail.com  
+- 🌐 Portfolio : https://sites.google.com/view/safhanafarha/home(#)  
+- 💼 LinkedIn : www.linkedin.com/in/safhanafarha786(#)  
+- 📧 Email: safhanafarha775@gmail.com  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safhanafarhath&show_icons=true&theme=radical)
 
