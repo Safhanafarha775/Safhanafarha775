@@ -14,6 +14,8 @@
 - 📧 Email: safhanafarha775@gmail.com  
 
 
+![GitHub Snake Light](https://raw.githubusercontent.com/SafhanaFarhath/SafhanaFarhath/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/SafhanaFarhath/SafhanaFarhath/output/snake.svg#gh-dark-mode-only)
 
 
 
