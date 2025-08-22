@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: SafhanaFarhath   # replace with your GitHub username
+          github_user_name: Safhanafarh775   # replace with your GitHub username
           outputs: dist/snake.svg
 
       - name: Push to output branch
